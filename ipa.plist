@@ -16,7 +16,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.liguangming.Shadowrocket</string>
+                     <string>live.yremp.Shadowrocket</string>
                      <key>bundle-version</key>
                     <string>2.1.12</string>
                     <key>kind</key>
